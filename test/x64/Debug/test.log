@@ -1,3 +1,23 @@
 ﻿  Source.cpp
-  test.vcxproj -> R:\Благодатин Тетстирование\testing\LibraryForTesting\x64\Debug\Tests.exe
-  1
+R:\Благодатин Тетстирование\testing\test\Tests.h(86,10): error C2535: void MyTestSuite::QuadratureOneRootTest(void): функция-член уже определена или объявлена
+R:\Благодатин Тетстирование\testing\test\Tests.h(71): message : см. объявление "MyTestSuite::QuadratureOneRootTest"
+R:\Благодатин Тетстирование\testing\test\Tests.h(37,9): error C2065: ONE_ROOT: необъявленный идентификатор
+R:\Благодатин Тетстирование\testing\test\Tests.h(37,9): error C2672: "CxxTest::doAssertEquals": не найдена соответствующая перегруженная функция
+R:\Благодатин Тетстирование\testing\test\Tests.h(37,1): error C2780: void CxxTest::doAssertEquals(const char *,int,const char *,X,const char *,Y,const char *): требует аргументов: 7, имеется: 6
+R:\Благодатин Тетстирование\testing\libs\cxxtest-4.4\cxxtest\TestSuite.h(134): message : см. объявление "CxxTest::doAssertEquals"
+R:\Благодатин Тетстирование\testing\test\Tests.h(52,9): error C2065: NO_ROOTS: необъявленный идентификатор
+R:\Благодатин Тетстирование\testing\test\Tests.h(52,9): error C2672: "CxxTest::doAssertEquals": не найдена соответствующая перегруженная функция
+R:\Благодатин Тетстирование\testing\test\Tests.h(52,1): error C2780: void CxxTest::doAssertEquals(const char *,int,const char *,X,const char *,Y,const char *): требует аргументов: 7, имеется: 6
+R:\Благодатин Тетстирование\testing\libs\cxxtest-4.4\cxxtest\TestSuite.h(134): message : см. объявление "CxxTest::doAssertEquals"
+R:\Благодатин Тетстирование\testing\test\Tests.h(67,9): error C2065: NO_ROOTS: необъявленный идентификатор
+R:\Благодатин Тетстирование\testing\test\Tests.h(67,9): error C2672: "CxxTest::doAssertEquals": не найдена соответствующая перегруженная функция
+R:\Благодатин Тетстирование\testing\test\Tests.h(67,1): error C2780: void CxxTest::doAssertEquals(const char *,int,const char *,X,const char *,Y,const char *): требует аргументов: 7, имеется: 6
+R:\Благодатин Тетстирование\testing\libs\cxxtest-4.4\cxxtest\TestSuite.h(134): message : см. объявление "CxxTest::doAssertEquals"
+R:\Благодатин Тетстирование\testing\test\Tests.h(82,9): error C2065: NO_ROOTS: необъявленный идентификатор
+R:\Благодатин Тетстирование\testing\test\Tests.h(82,9): error C2672: "CxxTest::doAssertEquals": не найдена соответствующая перегруженная функция
+R:\Благодатин Тетстирование\testing\test\Tests.h(82,1): error C2780: void CxxTest::doAssertEquals(const char *,int,const char *,X,const char *,Y,const char *): требует аргументов: 7, имеется: 6
+R:\Благодатин Тетстирование\testing\libs\cxxtest-4.4\cxxtest\TestSuite.h(134): message : см. объявление "CxxTest::doAssertEquals"
+R:\Благодатин Тетстирование\testing\test\Tests.h(97,9): error C2065: OK: необъявленный идентификатор
+R:\Благодатин Тетстирование\testing\test\Tests.h(97,9): error C2672: "CxxTest::doAssertEquals": не найдена соответствующая перегруженная функция
+R:\Благодатин Тетстирование\testing\test\Tests.h(97,1): error C2780: void CxxTest::doAssertEquals(const char *,int,const char *,X,const char *,Y,const char *): требует аргументов: 7, имеется: 6
+R:\Благодатин Тетстирование\testing\libs\cxxtest-4.4\cxxtest\TestSuite.h(134): message : см. объявление "CxxTest::doAssertEquals"

@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>R:\Благодатин Тетстирование\LibraryForTesting\x64\Debug\Runner.exe</FullPath>
+      <FullPath>R:\Благодатин Тетстирование\testing\LibraryForTesting\x64\Debug\Runner.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

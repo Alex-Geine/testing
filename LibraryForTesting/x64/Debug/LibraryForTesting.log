@@ -1,1 +1,8 @@
-﻿  LibraryForTesting.vcxproj -> R:\Благодатин Тетстирование\LibraryForTesting\x64\Debug\LibraryForTesting.dll
+﻿  pch.cpp
+  dllmain.cpp
+  MathLib.cpp
+R:\Благодатин Тетстирование\testing\LibraryForTesting\MathLib.cpp(13,5): warning C4273: solve: несовместимое связывание dll
+R:\Благодатин Тетстирование\testing\LibraryForTesting\MathLib.h(12,32): message : см. предыдущее определение "solve"
+  Создание кода...
+     Создается библиотека R:\Благодатин Тетстирование\testing\LibraryForTesting\x64\Debug\LibraryForTesting.lib и объект R:\Благодатин Тетстирование\testing\LibraryForTesting\x64\Debug\LibraryForTesting.exp
+  LibraryForTesting.vcxproj -> R:\Благодатин Тетстирование\testing\LibraryForTesting\x64\Debug\LibraryForTesting.dll

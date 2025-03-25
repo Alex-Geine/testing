@@ -12,6 +12,19 @@
 // ax^2 + bx + c = 0
 int solve(const double a, const double b, const double c, double& x1, double& x2)
 {
+	// Linear equation
+	if (a == 0)
+	{
+		if (b == 0)
+			return NO_ROOTS;
+		
+		x2 = 0;
+		x1 = -c / b;
+
+		return ONE_ROOT;
+	}
+
+	// Quadrature equation
 	double d = b * b - 4 * a * c;
 
 	if (d < 0)

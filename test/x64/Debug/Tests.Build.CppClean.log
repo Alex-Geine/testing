@@ -1,19 +1,14 @@
-r:\благодатин тетстирование\test\x64\debug\vc143.pdb
-r:\благодатин тетстирование\test\x64\debug\vc143.idb
-r:\благодатин тетстирование\test\x64\debug\source.obj
-r:\благодатин тетстирование\testing\test\x64\debug\vc143.pdb
-r:\благодатин тетстирование\testing\test\x64\debug\vc143.idb
-r:\благодатин тетстирование\testing\test\x64\debug\source.obj
-r:\благодатин тетстирование\test\x64\debug\tests.ilk
-r:\благодатин тетстирование\libraryfortesting\x64\debug\tests.exe
-r:\благодатин тетстирование\libraryfortesting\x64\debug\tests.pdb
-r:\благодатин тетстирование\testing\test\x64\debug\tests.ilk
-r:\благодатин тетстирование\testing\libraryfortesting\x64\debug\tests.exe
-r:\благодатин тетстирование\testing\libraryfortesting\x64\debug\tests.pdb
-r:\благодатин тетстирование\testing\test\x64\debug\tests.tlog\cl.command.1.tlog
-r:\благодатин тетстирование\testing\test\x64\debug\tests.tlog\cl.items.tlog
-r:\благодатин тетстирование\testing\test\x64\debug\tests.tlog\cl.read.1.tlog
-r:\благодатин тетстирование\testing\test\x64\debug\tests.tlog\cl.write.1.tlog
-r:\благодатин тетстирование\testing\test\x64\debug\tests.tlog\link.command.1.tlog
-r:\благодатин тетстирование\testing\test\x64\debug\tests.tlog\link.read.1.tlog
-r:\благодатин тетстирование\testing\test\x64\debug\tests.tlog\link.write.1.tlog
+i:\projects\testing\test\x64\debug\vc143.pdb
+i:\projects\testing\test\x64\debug\vc143.idb
+i:\projects\testing\test\x64\debug\source.obj
+i:\projects\testing\libraryfortesting\x64\debug\tests.exe
+i:\projects\testing\libraryfortesting\x64\debug\tests.pdb
+i:\projects\testing\test\x64\debug\tests.ilk
+i:\projects\testing\test\x64\debug\tests.tlog\cl.command.1.tlog
+i:\projects\testing\test\x64\debug\tests.tlog\cl.items.tlog
+i:\projects\testing\test\x64\debug\tests.tlog\cl.read.1.tlog
+i:\projects\testing\test\x64\debug\tests.tlog\cl.write.1.tlog
+i:\projects\testing\test\x64\debug\tests.tlog\link.command.1.tlog
+i:\projects\testing\test\x64\debug\tests.tlog\link.read.1.tlog
+i:\projects\testing\test\x64\debug\tests.tlog\link.secondary.1.tlog
+i:\projects\testing\test\x64\debug\tests.tlog\link.write.1.tlog

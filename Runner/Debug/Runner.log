@@ -1,0 +1,2 @@
+﻿  runner.cpp
+I:\projects\testing\test\runner.cpp(7,10): error C1083: Не удается открыть файл включение: cxxtest/TestListener.h: No such file or directory,

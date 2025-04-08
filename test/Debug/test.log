@@ -1,0 +1,2 @@
+﻿  Source.cpp
+I:\projects\testing\test\Tests.h(2,10): error C1083: Не удается открыть файл включение: cxxtest/TestSuite.h: No such file or directory,

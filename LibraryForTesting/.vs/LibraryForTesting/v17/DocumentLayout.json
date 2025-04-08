@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\projects\\testing\\LibraryForTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA3B9D0-A7B2-4A97-816F-316E7AC34AAE}|..\\test\\test.vcxproj|I:\\projects\\testing\\test\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|I:\\projects\\testing\\LibraryForTesting\\MathLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|solutionrelative:MathLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\projects\\testing\\libs\\cxxtest-4.4\\cxxtest\\XmlFormatter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\VisualStudio\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|I:\\projects\\testing\\LibraryForTesting\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|I:\\projects\\testing\\LibraryForTesting\\MathLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|solutionrelative:MathLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA3B9D0-A7B2-4A97-816F-316E7AC34AAE}|..\\test\\test.vcxproj|I:\\projects\\testing\\test\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B88F9B-852A-4A4F-A86E-A0787222EF2F}|..\\Runner\\Runner.vcxproj|I:\\projects\\testing\\test\\runner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|I:\\projects\\testing\\LibraryForTesting\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|I:\\projects\\testing\\LibraryForTesting\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88A25FDA-C394-47F2-A785-8097A8E80A57}|LibraryForTesting.vcxproj|solutionrelative:framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XmlFormatter.h",
+              "DocumentMoniker": "I:\\projects\\testing\\libs\\cxxtest-4.4\\cxxtest\\XmlFormatter.h",
+              "RelativeDocumentMoniker": "..\\libs\\cxxtest-4.4\\cxxtest\\XmlFormatter.h",
+              "ToolTip": "I:\\projects\\testing\\libs\\cxxtest-4.4\\cxxtest\\XmlFormatter.h",
+              "RelativeToolTip": "..\\libs\\cxxtest-4.4\\cxxtest\\XmlFormatter.h",
+              "ViewState": "AQIAAEUCAAAAAAAAAAAEwFkCAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T16:35:00.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.CppCommon.targets",
+              "DocumentMoniker": "I:\\VisualStudio\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\VisualStudio\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ToolTip": "I:\\VisualStudio\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeToolTip": "..\\..\\..\\VisualStudio\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAYwKUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-08T16:23:03.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "runner.cpp",
+              "DocumentMoniker": "I:\\projects\\testing\\test\\runner.cpp",
+              "RelativeDocumentMoniker": "..\\test\\runner.cpp",
+              "ToolTip": "I:\\projects\\testing\\test\\runner.cpp",
+              "RelativeToolTip": "..\\test\\runner.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T06:59:17.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.h",
+              "DocumentMoniker": "I:\\projects\\testing\\test\\Tests.h",
+              "RelativeDocumentMoniker": "..\\test\\Tests.h",
+              "ToolTip": "I:\\projects\\testing\\test\\Tests.h",
+              "RelativeToolTip": "..\\test\\Tests.h",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T06:49:52.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "framework.h",
+              "DocumentMoniker": "I:\\projects\\testing\\LibraryForTesting\\framework.h",
+              "RelativeDocumentMoniker": "framework.h",
+              "ToolTip": "I:\\projects\\testing\\LibraryForTesting\\framework.h",
+              "RelativeToolTip": "framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T06:49:52.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pch.h",
+              "DocumentMoniker": "I:\\projects\\testing\\LibraryForTesting\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "I:\\projects\\testing\\LibraryForTesting\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T06:49:52.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "I:\\projects\\testing\\test\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\test\\Source.cpp",
+              "ToolTip": "I:\\projects\\testing\\test\\Source.cpp",
+              "RelativeToolTip": "..\\test\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T06:49:52.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathLib.cpp",
+              "DocumentMoniker": "I:\\projects\\testing\\LibraryForTesting\\MathLib.cpp",
+              "RelativeDocumentMoniker": "MathLib.cpp",
+              "ToolTip": "I:\\projects\\testing\\LibraryForTesting\\MathLib.cpp",
+              "RelativeToolTip": "MathLib.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T06:49:52.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MathLib.h",
+              "DocumentMoniker": "I:\\projects\\testing\\LibraryForTesting\\MathLib.h",
+              "RelativeDocumentMoniker": "MathLib.h",
+              "ToolTip": "I:\\projects\\testing\\LibraryForTesting\\MathLib.h",
+              "RelativeToolTip": "MathLib.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T06:49:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "I:\\projects\\testing\\LibraryForTesting\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "I:\\projects\\testing\\LibraryForTesting\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T06:49:52.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

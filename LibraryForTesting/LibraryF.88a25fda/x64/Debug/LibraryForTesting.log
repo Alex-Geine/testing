@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLib.cpp
+I:\projects\testing\LibraryForTesting\MathLib.cpp(9,5): warning C4273: solve: несовместимое связывание dll
+  Создание кода...
+     Создается библиотека I:\projects\testing\LibraryForTesting\x64\Debug\LibraryForTesting.lib и объект I:\projects\testing\LibraryForTesting\x64\Debug\LibraryForTesting.exp
+  LibraryForTesting.vcxproj -> I:\projects\testing\LibraryForTesting\x64\Debug\LibraryForTesting.dll
